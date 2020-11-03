@@ -2,9 +2,7 @@
 
 Compilation of TensorFlow models that address common tasks like:
 
-- Image Binary Classification
-
-- Image Multi-Class Classification
+- Image Classification
 
 - Text Classification
 
